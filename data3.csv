@@ -1,0 +1,573 @@
+subjectnumber,dob,dot,age,excluded,reason,notes,screen1,screen2,screen2b,screen3,screen3b,screen4,screen5,story,order,condition,pilotversion,control1,control2,control3,control4,control5,control6,moral,explain
+1,9/12/14,6/11/19,4.747945205,0,,,,,,,,,,Bucket,2,Low,6/11/19,,,0,0,0,0,0,
+1,9/12/14,6/11/19,4.747945205,0,,,,,,,,,,Canoe,1,High,6/11/19,,,1,1,1,1,0,
+1,9/12/14,6/11/19,4.747945205,1,Incomplete,,,,,,,,,Flower,3,High,6/11/19,,,1,0,0,0,,
+1,9/12/14,6/11/19,4.747945205,0,,,,,,,,,,Seashells,4,Low,6/11/19,,,1,0,,,0,
+2,10/2/12,6/11/19,6.693150685,1,Incomplete,,,,,,,,,Bucket,,,6/11/19,,,,,,,,
+3,5/8/14,6/11/19,5.095890411,0,,,,,,,,,,Bucket,2,High,6/11/19,,,1,1,0,0,1,It's not too much.
+3,5/8/14,6/11/19,5.095890411,0,,,,,,,,,,Flower,1,Low,6/11/19,,,1,0,0,0,1,No one will see her.
+3,5/8/14,6/11/19,5.095890411,0,,,,,,,,,,Seashells,3,Low,6/11/19,,,1,0,0,0,1,No one will see him. 
+4,1/31/15,6/12/19,4.364383562,0,,,,,,,,,,Flowers,2,High,6/12/19,,,1,1,0,,0,NA
+4,1/31/15,6/12/19,4.364383562,0,,,,,,,,,,Lake,1,High,6/12/19,,,1,1,0,,0,no more water left in the lake
+4,1/31/15,6/12/19,4.364383562,0,,,,,,,,,,Seashells,3,Low,6/12/19,,,1,0,0,0,0,NA
+5,2/21/12,6/12/19,7.309589041,0,,,,,,,,,,Buckets,1,Low,6/12/19,,,1,0,0,0,0,The other fish in the lake wouldn't have water
+5,2/21/12,6/12/19,7.309589041,0,,,,,,,,,,Flowers,2,High,6/12/19,,,1,1,0,0,0,"It would be bad for the flower, alsi it might be someone else's property"
+5,2/21/12,6/12/19,7.309589041,0,,,,,,,,,,Seashells,3,High,6/12/19,,,1,,0,0,0,The beach won't be as pretty
+6,12/15/12,6/12/19,6.493150685,0,,,,,,,,,,Flower,2,Low,6/12/19,,,,0,0,0,0,The flowers need to stay there so they can grow bigger
+6,12/15/12,6/12/19,6.493150685,0,,,,,,,,,,Lake,1,High,6/12/19,,,1,1,0,0,0,There needs to be water for the fish
+6,12/15/12,6/12/19,6.493150685,0,,,,,,,,,,Seashells,3,Low,6/12/19,,,,1,0,0,0,There will be no more on the beach
+7,4/1/13,6/12/19,6.2,0,,,,,,,,,,Buckets,1,Low,6/12/19,,,1,0,0,0,0,Okay if she took a little water but not okay if she took too much
+7,4/1/13,6/12/19,6.2,0,,,,,,,,,,Sandbox,3,Low,6/12/19,,,1,0,0,0,0,It will make a mess if he takes it home
+7,4/1/13,6/12/19,6.2,0,,,,,,,,,,Seashells,2,Low,6/12/19,,,1,0,0,0,0,N/A (didn't hear)
+8,5/23/12,6/12/19,7.057534247,0,,,,,,,,,,Buckets,4,Low,6/12/19,,,1,0,0,,0,"The water is not hers, it's the fish's"
+8,5/23/12,6/12/19,7.057534247,0,,,,,,,,,,Rocks,2,Low,6/12/19,,,,0,0,0,0,There's not that much left
+8,5/23/12,6/12/19,7.057534247,0,,,,,,,,,,Sandbox,3,High,6/12/19,,,1,1,0,0,0,"If no one saw him, then he'll probably keep taking sand"
+8,5/23/12,6/12/19,7.057534247,0,,,,,,,,,,Seashells,1,Low,6/12/19,,,,0,0,0,1,There would still be some left
+9,5/19/14,6/12/19,5.068493151,0,,Said not okay to both of initial questions,,,,,,,,Seashells,1,Low,6/12/19,,,1,0,0,,0,
+10,12/7/10,6/12/19,8.517808219,0,,,,,,,,,,Buckets,4,High,6/12/19,,,1,1,0,,0,The fish like the water and she can probably fill water from home
+10,12/7/10,6/12/19,8.517808219,0,,,,,,,,,,Rocks,2,High,6/12/19,,,1,1,0,0,0,Everyone else wants the path to stay there
+10,12/7/10,6/12/19,8.517808219,0,,,,,,,,,,Sandbox,3,Low,6/12/19,,,1,0,0,,1,The other kids don't like it that much
+10,12/7/10,6/12/19,8.517808219,0,,,,,,,,,,Seashells,1,Low,6/12/19,,,1,0,0,0,1,There's plenty of other shells
+11,1/4/11,6/12/19,8.44109589,0,,,,,,,,,,Rocks,3,Low,6/12/19,,,1,0,0,0,1,The other kids don't want the rocks
+11,1/4/11,6/12/19,8.44109589,1,,,,,,,,,,Sandbox,2,High,6/12/19,,,1,1,,0,,
+11,1/4/11,6/12/19,8.44109589,0,,,,,,,,,,Seashells,1,Low,6/12/19,,,1,0,0,0,1,None of the other kids want them
+11,1/4/11,6/12/19,8.44109589,0,,,,,,,,,,Twigs,4,High,6/12/19,,,1,1,0,0,0,The other kids want the twigs
+12,11/9/14,6/12/19,4.591780822,0,,,,,,,,,,Rocks,2,Low,6/12/19,,,1,0,0,0,0,"There will be no more rocks, because everyone will take them"
+12,11/9/14,6/12/19,4.591780822,0,,,,,,,,,,Sandbox,3,Low,6/12/19,,,1,0,0,0,0,Other kids will take more
+12,11/9/14,6/12/19,4.591780822,0,,,,,,,,,,Seashells,1,Low,6/12/19,,,1,0,0,0,0,There will be no more seashells
+13,9/26/13,6/12/19,5.712328767,0,,,,,,,,,,Rocks,2,High,6/12/19,,,1,1,0,0,0,the kids might find out and then they would grab it from him and put it back
+13,9/26/13,6/12/19,5.712328767,0,,,,,,,,,,Sandbox,3,Low,6/12/19,,,1,0,0,0,0,somebody might see him and put it back and tell the teacher
+13,9/26/13,6/12/19,5.712328767,0,,,,,,,,,,Seashells,1,Low,6/12/19,,,1,0,0,0,0,nobody else has a seashell and if he takes two then when other kids come to the beach they will get sad
+14,1/17/15,6/12/19,4.402739726,0,,,,,,,,,,Rocks,2,Low,6/12/19,,,1,0,0,0,0,rocks are heavy only big ones ... but it would be okay to take small ones because they're not heavy
+14,1/17/15,6/12/19,4.402739726,0,,,,,,,,,,Sandbox,3,,6/12/19,,,1,0,0,0,0,the sand is too messy and if you put water in it's even messier
+14,1/17/15,6/12/19,4.402739726,0,,,,,,,,,,Seashells,1,Low,6/12/19,,,1,0,0,0,0,There are animals inside them and when you put them in the sink it will pop out and it will be bad for the animal
+15,2/25/15,6/12/19,4.295890411,0,,,,,,,,,,Rocks,2,Low,6/12/19,,,1,0,0,0,0,he might throw them and that will hurt everybody
+15,2/25/15,6/12/19,4.295890411,0,,,,,,,,,,Sandbox,3,High,6/12/19,,,1,1,0,0,0,he might spill it
+15,2/25/15,6/12/19,4.295890411,0,,,,,,,,,,Seashells,1,Low,6/12/19,,,1,0,0,0,0,animals live inside them
+16,3/29/16,6/17/19,3.219178082,1,,"Screen 2: ""with help from mom""",0,1,,0,,1,1,,,,,,,,,,,,
+17,5/3/09,6/20/19,10.1369863,0,,,0,1,,0,,1,1,Acorns,4,High,6/17/19,1,,1,1,0,0,0,The squirrels wouldn't be able to survive without food.
+17,5/1/09,6/18/19,10.1369863,0,,,0,1,,0,,1,1,Buckets,2,Low,6/17/19,1,,1,0,0,0,0,"If she kept doing it, there would be no more water"
+17,5/2/09,6/19/19,10.1369863,0,,,0,1,,0,,1,1,Rocks,3,High,6/17/19,1,,1,0,,,0,Because they'll get their shoes muddy
+17,4/30/09,6/17/19,10.1369863,0,,,0,1,,0,,1,1,Seashells,1,Low,6/17/19,1,,1,0,0,0,0,The other kids won't be able to get shells when coming to the beach
+18,12/28/10,6/17/19,8.473972603,0,,,0,1,,0,,1,1,Acorns,4,High,6/17/19,1,,1,1,0,0,1,"OK to take a few, but make sure some are left"
+18,12/28/10,6/17/19,8.473972603,0,,,0,1,,0,,1,1,Buckets,2,High,6/17/19,1,,1,1,0,0,1,"She will only take one bucket, which will be okay for the fish"
+18,12/28/10,6/17/19,8.473972603,0,,,0,1,,0,,1,1,Rocks,3,Low,6/17/19,1,,1,0,0,0,1,Just make sure the rocks don't hit anyone
+18,12/28/10,6/17/19,8.473972603,0,,,0,1,,0,,1,1,Seashells,1,Low,6/17/19,1,,1,0,0,0,1,Safe (no crabs) and nothing is living in them. No harm in taking.
+19,12/28/10,6/17/19,8.473972603,0,,,0,1,,0,,1,1,Acorns,4,Low,6/17/19,1,,1,0,,0,1,there would still be acorns left
+19,12/28/10,6/17/19,8.473972603,0,,,0,1,,0,,1,1,Buckets,1,High,6/17/19,1,,1,1,0,0,1,there would still be water left
+19,12/28/10,6/17/19,8.473972603,0,,,0,1,,0,,1,1,Rocks,2,Low,6/17/19,1,,1,0,,0,1,there will still be rocks left
+19,12/28/10,6/17/19,8.473972603,0,,,0,1,,0,,1,1,Seashells,3,High,6/17/19,1,,1,1,0,0,1,there would still be more shells around the beach
+20,2/14/12,6/17/19,7.342465753,0,,,0,1,,0,,1,1,Buckets,1,High,6/17/19,1,,1,1,0,0,0,Because the water will be gone
+20,2/14/12,6/17/19,7.342465753,0,,,0,1,,0,,1,1,Rocks,3,High,6/17/19,1,,1,1,0,0,0,Nobody can get the rocks.
+20,2/14/12,6/17/19,7.342465753,0,,,0,1,,0,,1,1,Seashells,2,Low,6/17/19,1,,1,0,0,,0,No shells will be left and no one else can take them
+21,12/13/14,6/17/19,4.512328767,0,Failed screen; but seemed to think stepping on the mouse was funny,,0,1,,1,,1,1,Rocks,1,High,6/17/19,1,,1,1,0,0,1,Only took one rock and not two
+22,1/5/12,6/17/19,7.452054795,0,,,0,1,,0,,1,1,Buckets,1,Low,6/17/19,1,,1,0,0,0,0,the fish will only have a little bit of water
+22,1/5/12,6/17/19,7.452054795,0,,,0,1,,0,,1,1,Seashells,2,High,6/17/19,1,,1,1,0,,0,"if other people want to take shells, there wont be any left"
+23,2/25/10,6/17/19,9.312328767,0,,,0,1,,0,,1,1,Buckets,2,Low,6/17/19,1,,1,0,0,0,0,Other kids won't be happy.
+23,2/25/10,6/17/19,9.312328767,0,,,0,1,,0,,1,1,Seashells,1,High,6/17/19,1,,1,1,2,0,0,***
+24,1/29/13,6/17/19,6.383561644,1,Could not concentrate; failed control questions,,0,1,,0,,1,1,Buckets,2,Low,6/17/19,,,1,,,,0,Not supposed to put water on the castle. 
+24,1/29/13,6/17/19,6.383561644,0,,,0,1,,0,,1,1,Seashells,1,High,6/17/19,1,,1,1,0,0,1,He doesn't want anyone else taking any.
+25,10/1/13,6/17/19,5.712328767,0,,,0,1,,0,,1,1,Buckets,1,High,6/17/19,1,,1,1,2,0,0,There might not be any water left in the pond.
+25,10/1/13,6/17/19,5.712328767,0,,,0,1,,0,,1,1,Rocks,2,Low,6/17/19,1,,1,0,0,0,0,There won't be any rocks left in the path; Tim might take all the rocks.
+26,10/22/10,6/17/19,8.657534247,0,,,0,1,,0,,1,1,Buckets,1,High,6/17/19,1,,1,1,0,0,0,"When people are there, she doesn't do it.  When they aren't, she doesn't.  It's ""rude."" "
+26,10/22/10,6/17/19,8.657534247,0,,,0,1,,0,,1,1,Rocks,2,Low,6/17/19,1,,1,0,,0,0,"If other people have rock collections, it isn't fair.  But if no one has a rock collection, it's okay."
+27,8/6/13,6/17/19,5.865753425,0,,,0,1,,0,,1,1,Buckets,1,Low,6/17/19,1,,1,0,0,0,1,Not all the water will be gone.
+28,8/19/12,6/23/19,6.846575342,0,,,0,1,,0,,1,,Buckets,1,High,6/23/19,1,,1,2,0,0,0,Fish won't have water left.
+28,8/19/12,6/23/19,6.846575342,0,,,0,1,,0,,1,,Rocks,2,Low,6/23/19,1,,1,0,0,0,0,Because there would be less rocks.
+29,2/19/13,6/23/19,6.342465753,0,,,0,1,,0,,1,,Buckets,1,Low,6/23/19,1,,1,0,0,0,0,Because no more fish
+29,2/19/13,6/23/19,6.342465753,0,,,0,1,,0,,1,,Rocks,2,High,6/23/19,1,,1,1,0,0,0,Because there's no more rocks.
+30,9/15/10,6/23/19,8.775342466,0,,,0,1,,0,,1,,Buckets,1,High,6/23/19,1,,1,,0,0,0,because they all promised they wouldn't take water from the lake
+30,9/15/10,6/23/19,8.775342466,0,,,0,1,,0,,1,,Rocks,2,Low,6/23/19,1,,1,0,0,0,0,they said they wouldn't take rocks from the path
+31,6/17/10,6/23/19,9.021917808,0,,,0,1,,0,,1,,Buckets,1,Low,6/23/19,1,,1,0,0,0,0,"""What did they fish ever do to you"""
+31,6/17/10,6/23/19,9.021917808,0,,,0,1,,0,,1,,Rocks,2,High,6/23/19,1,,1,1,0,0,0,rocks are a part of nature; taking the rocks would make everyone sad
+32,2/11/11,6/23/19,8.367123288,0,said ok to step on mouse because he's afraid of mice,,0,1,,1,,1,,Buckets,1,Low,6/23/19,1,,1,0,0,0,0,fish will have less water
+32,2/11/11,6/23/19,8.367123288,0,said ok to step on mouse because he's afraid of mice,,0,1,,1,,1,,Rocks,2,High,6/23/19,1,,1,1,0,0,0,no one will know where to go
+33,11/3/11,6/24/19,8.367123288,0,no-->maybe-->no during third screen story,,0,1,0,0,0,1,,Buckets,1,High,6/24/19,1,,1,1,0,0,0,The water would run out
+33,11/3/11,6/24/19,8.367123288,0,no-->maybe-->no during third screen story,,0,1,0,0,0,1,,Rocks,2,Low,6/24/19,1,,1,0,not asked,0,0,Jacob will take more rocks
+35,1/17/14,6/24/19,5.435616438,0,,,0,1,0,0,0,1,,Buckets,1,Low,6/24/19,1,,1,0,,0,0,There would be no water in the lake.
+35,1/17/14,6/24/19,5.435616438,0,,,0,1,0,0,0,1,,Rocks,2,High,6/24/19,1,,1,1,0,0,1,There would be more left
+36,9/22/14,6/24/19,4.756164384,1,Incomplete,,0,1,0,0,0,1,,,,,,,,,,,,,
+36,10/5/09,6/24/19,9.723287671,0,,When asked 'what would happen if one person took water?' said that everyone would start doing it,0,1,0,0,0,1,,Buckets,1,Low,6/24/19,1,,1,0,,0,1,Because there will still be water
+36,10/6/09,6/25/19,9.723287671,0,,,0,1,0,0,0,1,,Rocks,2,High,6/24/19,1,,1,2,0,0,1,It's just once
+37,10/21/09,6/24/19,9.679452055,0,,,0,1,0,0,0,1,,Buckets,1,High,6/24/19,1,,1,1,0,0,0,Because the other kids want to do it
+37,10/21/09,6/24/19,9.679452055,0,,,0,1,0,0,0,1,,Rocks,2,Low,6/24/19,1,,1,0,0,0,1,There would still be rocks left
+38,8/6/13,6/17/19,5.865753425,0,,,0,1,,0,,1,1,Rocks,2,High,6/17/19,1,,1,1,0,0,1,Okay for him to take one rock and one rock only. 
+38,10/11/08,6/24/19,10.70684932,0,,,0,1,0,0,0,1,,Buckets,1,Low,6/24/19,1,,1,0,,0,1,She'll just take a little
+38,10/11/08,6/24/19,10.70684932,0,,,0,1,0,0,0,1,,Rocks,2,High,6/24/19,1,,1,,0,0,0,Because he's the only one who took it
+39,8/12/11,6/24/19,7.871232877,0,,,0,1,0,0,0,1,,Buckets,1,High,6/24/19,1,,1,1,0,0,1,She's not taking a lot of water
+39,8/12/11,6/24/19,7.871232877,0,,,0,1,0,0,0,1,,Rocks,2,Low,6/24/19,1,,1,0,0,,1,Because he's only taking one rock
+40,1/2/15,6/24/19,4.476712329,1,failed control question,,0,1,0,0,0,1,,Buckets,1,Low,6/24/19,1,,1,0,,0,0,It would turn to mud
+40,1/2/15,6/24/19,4.476712329,1,failed control question,,0,1,0,0,0,1,,Rocks,2,High,6/24/19,1,,1,1,0,0,0,Just because...Because the rocks will fall
+41,1/27/12,6/24/19,7.410958904,1,didn't pass what would happen if just one person did it,,0,1,0,0,0,1,,Buckets,1,High,6/24/19,1,,1,,0,0,0,Because the lake will only have a little bit of water
+41,1/27/12,6/24/19,7.410958904,1,^,,0,1,0,0,0,1,,Rocks,2,Low,6/24/19,1,,1,0,,0,0,There would only be a little bit of rocks.
+42,4/3/12,6/24/19,7.22739726,0,,,0,1,0,0,0,1,,Buckets,1,Low,6/24/19,1,,1,0,,0,1,Because there would still be water
+42,4/3/12,6/24/19,7.22739726,0,,,0,1,0,0,0,1,,Rocks,2,High,6/24/19,1,,1,1,,0,1,There would still be rocks left
+43,11/3/14,6/24/19,4.64109589,0,,,0,1,0,0,0,1,,Buckets,1,High,6/24/19,1,,1,1,,0,0,Becuase there's going to be more water
+43,11/4/14,6/25/19,4.64109589,0,,,0,1,0,0,0,1,,Rocks,2,Low,6/24/19,1,,1,0,,0,1,Because no one else is going to take one
+44,4/20/14,6/24/19,5.180821918,0,,,0,1,0,0,0,1,,Buckets,1,low,6/24/19,1,,1,0,not asked,0,1,
+44,4/20/14,6/24/19,5.180821918,0,,,0,1,0,0,0,1,,Rocks,2,high,6/24/19,1,,1,1,not asked,0,1,
+45,11/29/14,6/24/19,4.569863014,1,changed answers; failed screen,,0,1,0,0,0,0,,,,,,,,,,,,,
+46,6/23/10,6/26/19,9.01369863,0,,,0,1,0,0,0,1,,Buckets,1,high,6/24/19,1,1,1,,0,0,1,She's just doing it once and there will still be water
+46,6/23/10,6/26/19,9.01369863,0,,,0,1,0,0,0,1,,Rocks,2,low,6/24/19,1,1,1,0,,0,1,He's only doing it once and there'd still be plenty of rocks
+47,12/1/10,6/26/19,8.57260274,0,,,0,1,0,0,0,1,,Buckets,1,low,6/24/19,1,1,1,0,,0,1,Because there would still be water left
+47,12/1/10,6/26/19,8.57260274,0,,,0,1,0,0,0,1,,Rocks,2,high,6/24/19,1,1,1,1,0,0,1,There would still be plenty of rocks
+48,3/21/09,6/26/19,10.27123288,0,,,0,1,0,0,0,1,,Buckets,1,high,6/24/19,1,1,1,1,0,0,1,She's the only one doing it
+48,3/21/09,6/26/19,10.27123288,0,,,0,1,0,0,0,1,,Rocks,2,low,6/24/19,1,2,1,0,,0,1,"If nobody else wants, it's okay"
+49,7/7/10,6/26/19,8.975342466,0,,,0,1,0,0,0,1,,Buckets,1,low,6/24/19,1,1,1,0,,0,1,Probably leave enough water for the fish
+49,7/7/10,6/26/19,8.975342466,0,,,0,1,0,0,0,1,,Rocks,2,high,6/24/19,1,1,1,1,0,0,1,There's a lot of rocks and he's just taking one
+50,8/24/12,6/26/19,6.84109589,0,,,0,1,0,0,0,1,,Buckets,1,High,6/26/19,1,1,1,1,0,0,0,she's wasting water
+50,8/24/12,6/26/19,6.84109589,0,,,0,1,0,0,0,1,,Rocks,2,Low,6/26/19,1,1,1,0,,0,0,it's wasting rocks from the path
+51,3/10/13,6/26/19,6.298630137,0,,,0,1,0,0,0,1,,Buckets,1,Low,6/26/19,1,1,1,0,,0,1,then the fish will be able to live
+51,3/10/13,6/26/19,6.298630137,0,,,0,1,0,0,0,1,,Rocks,2,High,6/26/19,1,1,1,1,0,0,1,all the rocks...he just takes one
+52,7/22/12,6/26/19,6.931506849,0,,,0,1,0,0,0,1,,Buckets,1,High,6/26/19,1,1,1,1,0,0,1,because there'd still be water in the lake
+52,7/22/12,6/26/19,6.931506849,0,,,0,1,0,0,0,1,,Rocks,2,Low,6/26/19,1,1,1,0,,0,1,because there'd still be enough
+53,9/10/14,6/26/19,4.794520548,0,,,0,1,0,0,0,1,,Buckets,1,Low,6/26/19,1,2,1,0,,0,1,because there's plenty of water
+53,9/10/14,6/26/19,4.794520548,0,,,0,1,0,0,0,1,,Rocks,2,High,6/26/19,1,1,1,1,0,,1,because there's plenty more
+54,11/16/10,26-Jun,8.61369863,0,,,0,1,0,0,0,1,,Buckets,1,High,6/26/19,1,1,1,1,0,0,1,"If she did it more than once, there wouldn't be enough water."
+54,11/16/10,6/26/19,8.61369863,0,,,0,1,0,0,0,1,,Rocks,2,Low,6/26/19,1,1,1,0,,0,1,"If he took it more than once, there wouldn't be enough."
+55,9/25/11,6/26/19,7.756164384,0,,,0,1,0,0,,1,,Buckets,1,Low,6/26/19,1,1,1,0,,0,1,Because she's just doing it once.
+55,9/25/11,6/26/19,7.756164384,0,,,0,1,0,0,?????,??????,,Rocks,2,High,6/26/19,1,1,1,1,0,0,1,"**Initially said ""not okay""; actually it's okay because he'll only take one"
+,,,,,,,,,,,,,,Rocks,4,Low,6/12/19,,,1,0,0,0,1,He can return one of this rocks
+56,2/11/14,6/26/19,5.37260274,0,,,0,1,0,0,0,1,,Buckets,1,High,6/26/19,1,2,1,1,0,0,1,Because none of your friends are there and they won't go there
+56,2/11/14,6/26/19,5.37260274,0,,,0,1,0,0,0,1,,Rocks,2,Low,6/26/19,1,1,1,0,,0,1,Because no one's there
+57,11/30/09,6/26/19,9.575342466,0,,,0,1,0,0,0,1,,Buckets,1,Low,6/26/19,1,2,1,0,,0,1,Because she's just doing it once...otherwise it would be not okay
+57,11/30/09,6/26/19,9.575342466,0,,,0,1,0,0,0,1,,Rocks,2,High,6/26/19,1,1,1,1,0,0,1,Because he's just doing it just this once
+58,5/11/12,7/1/19,7.142465753,0,,,0,1,0,0,0,1,,Buckets,1,High,6/26/19,1,1,1,1,0,0,0,She shouldn't do that because all the other kids will think it's okay and there will be no more water left.
+58,5/11/12,7/1/19,7.142465753,0,,,0,1,0,0,0,1,,Rocks,2,Low,6/26/19,1,1,1,0,,0,0,The same reason as before.  Somebody might see him.
+59,12/2/13,7/1/19,5.580821918,0,,,0,1,0,0,0,1,,Buckets,1,Low,6/26/19,1,1,1,0,,0,1,Because there's going to be more water left.
+59,12/2/13,7/1/19,5.580821918,0,,,0,1,0,0,0,1,,Rocks,2,High,6/26/19,1,1,1,1,0,0,1,Because there's going to be more rocks left.
+60,2/20/10,7/1/19,9.364383562,0,,,0,1,0,0,0,1,,Buckets,1,High,6/26/19,1,1,1,1,0,0,1,It's okay for one person to take water because none of the other kids are going to see her do it.
+60,2/20/10,7/1/19,9.364383562,0,,,0,1,0,0,0,1,,Rocks,2,Low,6/26/19,1,1,1,0,,0,1,Because it's only one rock and he's not going to take the whole path and no one will see him do it.
+61,6/9/09,7/1/19,10.06575342,0,,,0,1,0,0,0,1,,Buckets,1,Low,6/26/19,1,1,1,0,,0,1,If it's a preserved area then it's not okay but if it's not then it's okay
+61,6/9/09,7/1/19,10.06575342,0,,,0,1,0,0,0,1,,Rocks,2,High,6/26/19,1,1,1,1,0,0,1,
+62,2/19/11,7/1/19,8.367123288,0,,,0,1,0,0,0,1,,Buckets,1,High,6/26/19,1,1,1,1,0,0,0,Because it's against the rules
+62,2/19/11,7/1/19,8.367123288,0,,,0,1,0,0,0,1,,Rocks,2,Low,6/26/19,1,1,1,0,,0,1,Because he's the only one who likes rocks
+63,7/16/12,7/1/19,6.961643836,0,,,0,1,0,0,0,1,,Buckets,1,Low,6/26/19,1,1,1,0,,0,1,She'll only take one scoop of water
+63,7/16/12,7/1/19,6.961643836,0,,,0,1,0,0,0,1,,Rocks,2,High,6/26/19,1,1,1,1,0,0,1,If he only takes one rock it's fine
+64,2/8/10,7/1/19,9.397260274,0,,,0,1,0,0,0,1,,Buckets,1,High,6/26/19,1,1,1,1,0,0,0,Because she's doing it in secret and all the other kid want to take water too
+64,2/8/10,7/1/19,9.397260274,0,,,0,1,0,0,0,1,,Rocks,2,Low,6/26/19,1,1,1,0,,0,1,Because no one else wants to and he'll do it just this once
+65,8/11/13,7/1/19,5.890410959,0,,,0,1,0,0,0,1,,Buckets,1,Low,6/26/19,1,1,1,0,,0,1,Because it's just one bucket
+65,8/11/13,7/1/19,5.890410959,0,,,0,1,0,0,0,1,,Rocks,2,High,6/26/19,1,1,1,1,0,0,1,Because it's just one rock
+66,6/4/13,7/1/19,6.076712329,0,,,0,1,0,0,0,1,,Buckets,1,Low,6/26/19,1,1,1,1,0,0,1,The water's not gone
+66,6/4/13,7/1/19,6.076712329,0,,,0,1,0,0,0,1,,Rocks,2,High,6/26/19,1,1,1,0,,0,1,There's lots of rocks left
+67,10/22/11,7/1/19,7.695890411,0,,,0,1,0,0,0,1,,Buckets,1,Low,6/26/19,1,1,1,0,,0,0,Fish would have less water; germ problem; waste of water
+67,10/22/11,7/1/19,7.695890411,0,,,0,1,0,0,0,1,,Rocks,2,High,6/26/19,1,1,1,1,0,0,0,It's not fair to the other kids
+68,6/28/09,7/1/19,10.01369863,0,,,0,1,0,0,0,1,,Buckets,1,High,6/26/19,1,1,1,1,0,0,1,It wouldn't matter if just this once
+68,6/28/09,7/1/19,10.01369863,0,,,0,1,0,0,0,1,,Rocks,2,Low,6/26/19,1,1,1,0,,0,1,None of the other kids want one
+69,1/2/12,7/2/19,7.501369863,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,1,"(originally not okay ""Because it's the fish's."") Changed to okay because there's no one else around"
+69,1/2/12,7/2/19,7.501369863,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,Because nobody will do it and nobody will do the same thing
+70,10/4/11,7/2/19,7.747945205,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,There will only be a little bit of water left
+70,10/4/11,7/2/19,7.747945205,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,No one will see him do it
+71,1/8/14,7/2/19,5.482191781,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,Because the fish will die if she takes some water
+71,1/8/14,7/2/19,5.482191781,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,"""I don't know"""
+72,10/5/08,7/2/19,10.74520548,1,"Couldn't answer ""Do the kids want to..."" correctly",,? (not marked on sheet),? (not marked on sheet),0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,0,0,0,0,The fish wouldn't have as much water to swim in and the water might be bad for Mary
+72,10/5/08,7/2/19,10.74520548,0,,,? (not marked on sheet),? (not marked on sheet),0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,There are so many rocks to go around and it's only one rock
+73,11/3/13,7/2/19,5.663013699,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,1,The water won't waste
+73,11/3/13,7/2/19,5.663013699,1,"Got ""What would happen if one person...?"" wrong",,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,0,1,1,0,0,1,He can put another rock ther and no one will know about it
+74,11/3/13,7/2/19,5.663013699,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,It will still leak out
+74,11/3/13,7/2/19,5.663013699,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,"It's just gonna be one, he's not gonna take all of them"
+75,10/10/12,7/2/19,6.728767123,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,If she keeps doing it she might take too much
+75,10/10/12,7/2/19,6.728767123,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,Because if he takes more of them there might be no path
+76,5/12/14,7/2/19,5.142465753,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,I don't know
+76,5/12/14,7/2/19,5.142465753,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,Because there still would be pelnty of rocks
+77,12/12/14,7/2/19,4.556164384,1,Failed screen,,1,1,0,0,0,0,,,,,,,,,,,,,
+78,12/23/10,7/2/19,8.528767123,0,,,0,1,2,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,If she does it then her other friends will want to do it
+78,12/23/10,7/2/19,8.528767123,0,,,0,1,2,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,Because the friends said they want to take rocks
+79,5/16/09,7/2/19,10.13424658,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,Because she's taking water away from the lake where fish live and maybe the fish won't survive
+79,5/16/09,7/2/19,10.13424658,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,Because it's not okay to take rocks from somewhere and it's not okay to do something when no one else is there
+80,1/5/14,7/2/19,5.490410959,0,,,0,1,2,0,0,1,,Buckets,1,High,7/2/19,1,1,,1,0,0,0,Because then there would be no water for the fish
+80,1/5/14,7/2/19,5.490410959,0,,,0,1,2,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,It would be naughty
+81,4/13/10,7/2/19,9.224657534,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,You don't want to take water from the animals and it's not for good reason
+81,4/13/10,7/2/19,9.224657534,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,No one's looking and it's only one rock
+82,3/18/11,7/2/19,8.295890411,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,She's the only person taking it from the lake
+82,3/18/11,7/2/19,8.295890411,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,No one else will see him so they won't do it
+83,3/6/14,7/2/19,5.326027397,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,1,There'd still be water left
+83,3/6/14,7/2/19,5.326027397,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,There's still be a lot of rocks left
+84,3/7/15,7/2/19,4.323287671,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,If the other kids came to get water there'd be no more water
+84,3/7/15,7/2/19,4.323287671,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,If the other kids came to get rocks there'd be no more rocks
+85,9/25/14,7/3/19,4.77260274,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,1,There's still water left for the fish.
+85,9/25/14,7/3/19,4.77260274,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,Because there's more rocks.
+86,8/16/08,7/3/19,10.88493151,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,If she just does it once then there will be plenty of water left.
+86,8/16/08,7/3/19,10.88493151,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,He's only doing it once and there's still more rocks.
+87,4/14/15,7/3/19,4.221917808,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,1,She likes to do that.
+87,4/14/15,7/3/19,4.221917808,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,He likes doing that.
+88,9/16/15,7/3/19,3.797260274,1,Age,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,2,1,1,,0,0,1,Because she needs to make a moat.
+88,9/16/15,7/3/19,3.797260274,1,Age,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,Because he wants to put it in his rock collection. 
+89,2/10/11,7/3/19,8.397260274,0,,,0,1,2,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,1,There would still be enough water.
+89,2/10/11,7/3/19,8.397260274,0,,,0,1,2,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,No one will see him and there will still be enough rocks.
+90,4/11/09,7/3/19,10.23287671,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,Not okay because the fish won't have enough water
+90,4/11/09,7/3/19,10.23287671,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,He's the only one taking rocks from the path
+91,5/4/15,7/3/19,4.167123288,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,Because she'll use all the water
+91,5/4/15,7/3/19,4.167123288,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,1,,0,0,Because he'll take all the rocks
+92,12/17/13,7/3/19,5.545205479,1,Got wwh if everyone... wrong,,0,1,0,0,0,1,,Buckets,1,High ,7/2/19,1,1,0,2,0,0,0,"""I don't know"""
+92,12/17/13,7/3/19,5.545205479,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,"""I don't know"""
+93,3/7/11,7/3/19,8.328767123,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,Because there's still water for the fish
+93,3/7/11,7/3/19,8.328767123,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,0,0,1,Because there's still plenty of rocks if he takes it
+94,5/26/10,7/3/19,9.109589041,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,"If she keeps doing it, there'll be none left and she's doing something wrong"
+94,5/26/10,7/3/19,9.109589041,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,"If he keeps taking rocks, there will be none for the path"
+95,8/2/12,7/3/19,6.920547945,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,waste of water
+95,8/2/12,7/3/19,6.920547945,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,,0,0,He'll keep taking the rocks
+96,6/25/14,7/3/19,5.024657534,1,got screening question wrong,,0,1,0,0,0,0,,,,,,,,,,,,,
+97,12/17/10,7/3/19,8.547945205,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,the fish would die
+97,12/17/10,7/3/19,8.547945205,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,"if just one time, there would still be plenty of rocks but there would be fewer rocks"
+98,10/2/15,7/7/19,3.764383562,1,Age,,0,1,1,0,1,1,,,,,,,,,,,,,
+99,5/28/15,7/7/19,4.112328767,1,Incorrect answer,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,Because the fish can't breathe.
+99,5/28/15,7/7/19,4.112328767,1,Incorrect answer,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,0,0,0,0,"If other kids want to take rocks, there will be no more rocks left."
+100,12/1/09,7/7/19,9.602739726,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,Someone else might see her.
+100,12/1/09,7/7/19,9.602739726,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,Someone who's not his friend might see him and take a rock. 
+101,7/9/13,7/7/19,5.997260274,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,Maybe somebody will come back and copy her.
+101,7/9/13,7/7/19,5.997260274,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,No one will see him and no one will copy him.
+102,1/12/11,7/7/19,8.487671233,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,There could be some fish in there.
+102,1/12/11,7/7/19,8.487671233,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,It might collapse.
+103,12/22/13,7/7/19,5.542465753,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,There might be a little bit of water left.
+103,12/22/13,7/7/19,5.542465753,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,Jacob and his friends don't normally take the rocks.
+104,6/18/10,7/7/19,9.057534247,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,There's only one person taking water from the lake so there will be plenty of water.
+104,6/18/10,7/7/19,9.057534247,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,2,,0,1,Only one person is getting a rock.
+105,6/15/11,7/8/19,8.068493151,1,"answered ""I don't know"" to the the OK question",,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,,
+105,6/15/11,7/8/19,8.068493151,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,It's not fair to the other kids
+106,12/15/13,7/8/19,5.564383562,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,"It's okay if she takes one bucket, but if she takes a bunch of buckets then there will be no more left for the fish"
+106,12/15/13,7/8/19,5.564383562,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,2,,0,1,He's just gonna take one rock
+107,6/27/15,7/8/19,4.032876712,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,1,Because nobody will see her
+107,6/27/15,7/8/19,4.032876712,1,2 incorrect answers to control,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,0,1,1,0,0,0,1,Because no one will see him
+108,8/4/11,7/8/19,7.931506849,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,There will be less water
+108,8/4/11,7/8/19,7.931506849,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,The path might break
+109,2/2/14,7/9/19,5.432876712,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,Because the fish won't be able to swim in it
+109,2/2/14,7/9/19,5.432876712,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,Because if only one person takes a rock there will still be plenty of rocks
+110,5/25/10,7/9/19,9.128767123,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,She'd be lying if she said she didn't take water
+110,5/25/10,7/9/19,9.128767123,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,People might notice that a rock is missing
+111,8/15/08,7/9/19,10.90410959,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,Then the fish would have less water
+111,8/15/08,7/9/19,10.90410959,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,Because there's still a lot of rocks left
+112,10/19/09,7/9/19,9.726027397,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,If everyone did that then there'd be no more water for the fish
+112,10/19/09,7/9/19,9.726027397,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,There's a lot of rocks plus nobody else wants the rocks
+113,10/19/09,7/9/19,9.726027397,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,The lake wouldn't have water for the fish (he'd keep doing it everyday)
+113,10/19/09,7/9/19,9.726027397,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,There'd be no more rocks for the path
+114,6/7/13,7/9/19,6.090410959,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,The fish still have some water
+114,6/7/13,7/9/19,6.090410959,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,There will be a whole bunch of rocks on the path
+115,2/7/12,7/9/19,7.421917808,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,Maybe she'll catch a fish and the fish will die
+115,2/7/12,7/9/19,7.421917808,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,Maybe he might decide he wants all of them and then the path will be gone
+116,5/13/09,7/9/19,10.16164384,0,,,0,1,2,0,0,1,,Buckets,1,High,7/2/19,1,1,1,2,0,0,0,She might keep doing it and it will hurt the fish
+116,5/13/09,7/9/19,10.16164384,0,,,0,1,2,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,Over time the rocks might disappear
+117,1/12/13,7/10/19,6.493150685,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,It's not good for the fish.
+117,1/12/13,7/10/19,6.493150685,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,There's way more than one.
+118,2/18/12,7/10/19,7.394520548,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,There'd still be some water in the lake.
+118,2/18/12,7/10/19,7.394520548,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,There'd still be more rocks left on the path.
+119,5/6/14,7/10/19,5.180821918,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,1,There will still be water for the fish.
+119,5/6/14,7/10/19,5.180821918,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,There will still be rocks left on the path.
+120,5/20/13,7/10/19,6.142465753,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,Because there's still water in the lake *chagned from not okay
+120,5/20/13,7/10/19,6.142465753,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,Because there's still rocks on the path *changed from not okay
+121,12/2/08,7/10/19,10.60821918,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,1,OK if only she does it and no one else
+121,12/2/08,7/10/19,10.60821918,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,Okay if only he takes it
+122,8/15/11,7/10/19,7.906849315,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,Because she's not using all the water
+122,8/15/11,7/10/19,7.906849315,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,Because there will be plenty of rocks and no one will see him do it
+123,12/24/08,7/10/19,10.54794521,0,,,0,1,2,0,0,1,,Buckets,1,Low,7/2/19,1,2,1,0,,0,1,If she only takes one.
+123,12/24/08,7/10/19,10.54794521,0,,,0,1,2,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,If he only takes one.
+124,4/6/15,7/10/19,4.263013699,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,Because the fish won't have any.
+124,4/6/15,7/10/19,4.263013699,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,Because there'll be more rocks.
+125,12/30/10,7/14/19,8.542465753,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,1,She's the only one taking water from the lake.
+125,12/30/10,7/14/19,8.542465753,0,,,0,1,0,0,0,1,,Rocks,2,HIgh,7/2/19,1,1,1,1,0,0,1,Not everyone will take a rock.
+126,12/30/10,7/14/19,8.542465753,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,"If she takes water, maybe someone else will take water and then there will be no more water for the fish."
+126,12/30/10,7/14/19,8.542465753,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,"If he takes a rock, other people will want to take a rock too."
+127,5/17/13,7/14/19,6.161643836,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,The fish need to be in there to survive.
+127,5/17/13,7/14/19,6.161643836,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,It's just not okay.
+128,5/20/10,7/14/19,9.156164384,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,It's not fair that she's the only one doing it.
+128,5/20/10,7/14/19,9.156164384,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,There's other people that walk on the path that might want to take rocks but they don't.
+129,11/6/10,7/14/19,8.690410959,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,1,She's only doing it just this once
+129,11/6/10,7/14/19,8.690410959,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,1,1,1,0,0,1,There will be plenty of rocks left on the path
+130,1/26/13,7/14/19,6.465753425,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,Because no one else knows & there will still be plenty of water left for the fish
+130,1/26/13,7/14/19,6.465753425,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,Because there will still be rocks on the path
+131,11/13/10,7/14/19,8.671232877,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,1,She's just taking one bucket
+131,11/13/10,7/14/19,8.671232877,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,Only taking a rock just this once
+132,2/2/12,7/14/19,7.449315068,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,If she keeps going back there won't be enough water
+132,2/2/12,7/14/19,7.449315068,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,"If he takes it once it's okay, if he keeps doing it, it's not okay"
+133,2/20/10,7/14/19,9.4,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,the fish are going to lose water at some point
+133,2/20/10,7/14/19,9.4,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,"If other kids find out, they’d take rocks too"
+134,5/29/12,7/14/19,7.128767123,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,It's okay if it's only a few buckets but not a lot of buckets.
+134,5/29/12,7/14/19,7.128767123,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,Okay if it's just one but not the whole path.
+135,8/30/11,7/15/19,7.879452055,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,1,There will be more water for the fish
+135,8/30/11,7/15/19,7.879452055,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,There will be more rocks for the path
+136,2/18/14,7/15/19,5.405479452,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,The fish will have no water
+136,2/18/14,7/15/19,5.405479452,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,When he takes a lot of rocks they'll all be gone
+137,8/3/11,7/15/19,7.953424658,1,Incorrect Answer,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,0,1,0,,0,0,Because it's disrespecting nature
+137,8/3/11,7/15/19,7.953424658,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,1,Because there will still be enough water
+138,7/12/13,7/15/19,6.010958904,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,1,1,1,0,0,0,There might be no rocks.
+138,7/2/13,7/15/19,6.038356164,0,,,0,1,0,0,0,1,,Buckets,2,Low,7/2/19,1,1,1,0,,0,0,The fish will have no water.
+139,3/3/11,7/15/19,8.37260274,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,That's the fish's lake; it shouldn't be taken.
+139,3/3/11,7/15/19,8.37260274,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,The other kids might know he took a rock.
+140,7/22/10,7/15/19,8.98630137,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,It's just her and nobody else is taking water.
+140,7/22/10,7/15/19,8.98630137,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,It's just him and nobody else is taking rocks.
+141,4/23/09,7/15/19,10.23287671,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,0,1,There's still plenty of rocks left.
+141,4/23/09,7/15/19,10.23287671,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,1,There's still plenty of lake water left.
+142,7/9/11,7/15/19,8.021917808,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,1,1,1,0,0,0,"If he does, everyone else won't know and they don't normally take the rocks."
+142,7/9/11,7/15/19,8.021917808,0,,,0,1,0,0,0,1,,Buckets,2,Low,7/2/19,1,1,1,0,,0,1,Only she wants to put water on the castle and the other kids don't.
+143,6/4/11,7/16/19,8.120547945,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,other people might want to and then it'll just be a hole
+143,6/4/11,7/16/19,8.120547945,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,sometimes other people probably want to do it too and then there will be no lakes
+144,2/7/15,7/16/19,4.438356164,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,"If she took water, then there'd be no more water"
+144,2/7/15,7/16/19,4.438356164,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,Because he wants to take one home
+145,12/14/13,7/16/19,5.589041096,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,0,1,The rocks could still be there
+145,12/14/13,7/16/19,5.589041096,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,1,There will still be water in the lake
+146,3/7/11,7/16/19,8.364383562,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,1,1,1,0,0,0,Because Jacob might keep doing it and the other rocks will be gone
+146,3/7/11,7/16/19,8.364383562,0,,,0,1,0,0,0,1,,Buckets,2,Low,7/2/19,1,1,1,0,,0,0,She might keep doing it and then won't be water left
+147,10/15/12,7/16/19,6.753424658,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,Because things in lake need water to survive
+147,10/15/12,7/16/19,6.753424658,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,It's sneaking and taking rocks from the path
+148,1/23/13,7/16/19,6.479452055,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,Some fish might be in the bucket
+148,1/23/13,7/16/19,6.479452055,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,Might make other rocks fall down
+149,12/16/13,7/16/19,5.583561644,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,0,1,Because they're not watching
+149,12/16/13,7/16/19,5.583561644,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,1,Because no one is watching
+150,6/24/12,7/16/19,7.063013699,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,1,1,1,0,0,0,Then other kids will see it and there won't be more
+150,6/24/12,7/16/19,7.063013699,0,,,0,1,0,0,0,1,,Buckets,2,Low,7/2/19,1,1,1,0,,0,0,Someone might see and they'll take it
+151,9/19/09,7/16/19,9.82739726,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,1,"She's not taking too much water, it's just once"
+151,9/19/09,7/16/19,9.82739726,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,He and his friends said they weren't going to
+152,11/30/08,7/16/19,10.63013699,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,Still plenty left
+152,11/30/08,7/16/19,10.63013699,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,There would still be plenty of rocks left
+153,2/5/15,7/16/19,4.443835616,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,0,1,No one will see her do it
+153,2/5/15,7/16/19,4.443835616,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,1,No one will see her do it
+154,3/1/10,7/16/19,9.380821918,0,,,0,1,0,0,0,1,,Buckets,1,low,7/2/19,1,1,1,0,,0,1,Because there will still be water left
+154,3/1/10,7/16/19,9.380821918,0,,,0,1,0,0,0,1,,rocks,2,high,7/2/19,1,1,1,1,0,0,1,Because there will still be rocks left
+155,3/19/12,7/16/19,7.328767123,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,1,Because no one else is around
+155,3/19/12,7/16/19,7.328767123,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,0,There would be no more water for the fish 
+156,3/26/12,7/17/19,7.312328767,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,1,1,1,0,0,0,"If they take one, they'll want to take more."
+156,3/26/12,7/17/19,7.312328767,0,,,0,1,0,0,0,1,,Buckets,2,Low,7/2/19,1,1,1,0,,0,0,"If they took water from the lake, they might want to do it again and people might be watching."
+157,12/10/14,7/17/19,4.602739726,1,Failed Screening ,,0,0,0,0,0,1,,,,,,,,,,,,,
+158,6/13/12,7/17/19,7.095890411,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,It will run out of water.
+158,6/13/12,7/17/19,7.095890411,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,"If he takes one rock, he might be tempted to take another."
+159,1/16/14,7/17/19,5.501369863,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,0,1,"""I forgot"""
+159,1/16/14,7/17/19,5.501369863,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,1,Just one person is taking water
+160,3/13/12,7/17/19,7.347945205,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,1,1,1,0,0,1,Because he's just taking one rock
+160,3/13/12,7/17/19,7.347945205,0,,,0,1,0,0,0,1,,Buckets,2,Low,7/2/19,1,1,1,0,,0,1,It's okay if she just does it once
+161,3/9/12,7/17/19,7.35890411,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,Somebody would come over and see her
+161,3/9/12,7/17/19,7.35890411,1,Incorrect Answer,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,1,1,It's only one person
+162,11/3/09,7/17/19,9.706849315,1,Failed Screening,,0,1,1,0,0,1,,,,,,,,,,,,,
+163,2/11/12,7/17/19,7.432876712,1,Incorrect Answer,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,0,1,0,,0,1,He wants to.
+163,2/11/12,7/17/19,7.432876712,1,Incorrect Answer,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,0,1,0,0,0,The fish won't have enough water.
+164,8/5/10,7/22/19,8.967123288,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,1,it's only ok if he takes one rock
+164,8/5/10,7/22/19,8.967123288,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,1,Because there's still water left
+165,4/2/07,7/22/19,12.31232877,1,Incorrect Age,"She said she was 10, and said '09 for her birth year, but then we saw it was '07 from the consent form and didn't realize that was out of age parameteres (till now) so didn't follow up with her",0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,1,only taking one rock is ok
+165,4/2/07,7/22/19,12.31232877,1,incorrect age,"She said she was 10, and said '09 for her birth year, but then we saw it was '07 from the consent form and didn't realize that was out of age parameteres (till now) so didn't follow up with her",0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,1,only filling it up once is ok
+166,8/22/13,7/22/19,5.917808219,0,,,0,1,0,0,0,1,,buckets,1,low,7/2/19,1,1,1,0,,0,0,I dont know
+166,8/22/13,7/22/19,5.917808219,0,,,0,1,0,0,0,1,,rocks,2,high,7/2/19,1,1,1,1,0,0,0,Because he could take all of them and there would be no more left
+167,10/3/12,7/22/19,6.802739726,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,2,1,1,1,0,0,0,"If other people do it, there will be no more water."
+167,10/3/12,7/22/19,6.802739726,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,There would still be enough
+168,7/14/10,7/22/19,9.02739726,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,0,1,Nobody else will take rocks from the path
+168,7/14/10,7/22/19,9.02739726,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,0,Other kids would be there and it wouldn't be fair
+169,5/30/14,7/22/19,5.147945205,1,Failed Screening,,0,1,0,0,1,1,,,,,,,,,,,,,
+170,6/10/11,7/24/19,8.126027397,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,0,The fish won't have enough water.
+170,6/10/11,7/24/19,8.126027397,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,0,Because what if other people wanted to take rocks besides his friends.
+171,6/23/10,7/24/19,9.090410959,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,"If she does it again, there might not be any water left."
+171,6/23/10,7/24/19,9.090410959,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,He could do it again and there won't be any left.
+172,7/9/14,7/24/19,5.043835616,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,0,0,"If someone sees him taking a rock, they might take one too"
+172,7/9/14,7/24/19,5.043835616,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,2,0,0,0,"It's not allowed, if someone sees Mary then they can do it too"
+173,1/12/12,7/24/19,7.534246575,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,1,1,1,0,0,1,Because everyone could share.
+173,1/12/12,7/24/19,7.534246575,0,,,0,1,0,0,0,1,,Buckets,2,Low,7/2/19,1,1,1,0,,0,1,Because there will still be water and the other kids don't want water on their castles
+174,4/5/14,7/24/19,5.304109589,1,incorrect answer,,0,1,0,0,0,1,,buckets,1,low,7/2/19,1,1,1,1,,0,0,The fish wont have enough water
+174,4/5/14,7/24/19,5.304109589,1,incorrect answer,,0,1,0,0,0,1,,rocks,2,high,7/2/19,1,0,1,1,0,0,0,There'll be no more rocks
+175,9/26/10,7/24/19,8.830136986,0,,,0,1,0,0,0,1,,buckets,1,high,7/2/19,1,1,1,1,0,0,0,"If they see it, they might want to do it. "
+175,9/26/10,7/24/19,8.830136986,0,,,0,1,0,0,0,1,,rocks,2,low,7/2/19,1,1,1,0,,0,1,No one else wants to do it 
+176,6/26/12,7/24/19,7.079452055,1,Overheard brothers (previous participant) answers,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,0,"If he keeps on taking rocks, there will be no more rocks left"
+176,6/26/12,7/24/19,7.079452055,1,overheard brothers answers,,0,1,0,0,0,1,,buckets ,2,high,7/2/19,1,1,1,1,0,0,0,There will be no more water left in the lake
+177,5/20/11,7/24/19,8.183561644,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,Because then everyone will want to do it 
+177,5/20/11,7/24/19,8.183561644,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,0,Because if she took it all there would be no more water
+178,4/15/10,7/24/19,9.279452055,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,Ok if she just takes one bucket
+178,4/15/10,7/24/19,9.279452055,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,Ok if he just takes one rock
+179,8/8/13,7/24/19,5.961643836,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,1,Because it's just one person
+179,8/8/13,7/24/19,5.961643836,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,1,Because it's just one rock
+180,6/18/11,7/24/19,8.104109589,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,0,0,If he takes a rock then maybe other people will take it
+180,6/18/11,7/24/19,8.104109589,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,0,She'll take water & the water will run out & then the fish won't be able to breathe
+181,2/21/15,7/28/19,4.432876712,1,Failed Screening,,0,0,0,0,0,1,,,,,,,,,,,,,
+182,10/19/11,7/28/19,7.778082192,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,No one else is around/no one else will see her.
+182,10/19/11,7/28/19,7.778082192,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,No one else and it's find if he just takes one.
+183,6/12/12,7/28/19,7.128767123,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,0,1,There will be lots of rocks.
+183,6/12/12,7/28/19,7.128767123,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,1,There will still be plenty of water left.
+184,2/21/10,7/28/19,9.435616438,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,1,1,1,0,0,0,The story said no one will take a rock from the rock path 
+184,2/21/10,7/28/19,9.435616438,0,,,0,1,0,0,0,1,,Buckets,2,Low,7/2/19,1,1,1,0,,0,0,Mary's breaking the rules to not get water from the lake
+185,3/20/13,7/28/19,6.35890411,0,,,0,1,0,0,0,1,,Buckets,1,Low,7/2/19,1,1,1,0,,0,0,There won't be enough water
+185,3/20/13,7/28/19,6.35890411,0,,,0,1,0,0,0,1,,Rocks,2,High,7/2/19,1,1,1,1,0,0,0,There won't be any more rocks
+186,9/24/13,7/28/19,5.843835616,0,,,0,1,0,0,0,1,,buckets,1,high,7/2/19,1,1,1,1,0,0,0,Because when her friends take it there will be no more left
+186,9/24/13,7/28/19,5.843835616,0,,,0,1,0,0,0,1,,rocks,2,low,7/2/19,1,1,1,0,,0,0,because then there won't be enough rocks for his friends
+187,7/8/09,7/28/19,10.06027397,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,0,People put money into making the path and if he takes a rock it doesn't seem right
+187,7/8/09,7/28/19,10.06027397,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,1,There will be plenty of water left
+188,9/14/13,7/29/19,5.873972603,1,incorrect answer,,0,1,0,0,0,1,,buckets,1,high,7/2/19,1,1,1,0,0,0,0,If they find out she did it the other kids might take water too
+188,9/14/13,7/29/19,5.873972603,0,,,0,1,0,0,0,1,,rocks,2,low,7/2/19,1,1,1,0,,0,1,As long as the kids don't start liking (and taking) rocks
+189,12/16/10,7/29/19,8.621917808,0,,,0,1,0,0,0,1,,buckets,1,low,7/2/19,1,1,1,0,,0,1,The fish will still have water
+189,12/16/10,7/29/19,8.621917808,0,,,0,1,0,0,0,1,,rocks,2,high,7/2/19,1,1,1,1,0,0,1,There's still rocks left
+190,10/30/13,7/29/19,5.747945205,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,Need to leave nature alone
+190,10/30/13,7/29/19,5.747945205,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,0,fishes need water
+191,4/16/10,7/29/19,9.290410959,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,0,1,It's okay if he doesn't take that much.
+191,4/16/10,7/29/19,9.290410959,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,2,0,1,If she only taks water one time there will still be water left.
+192,2/9/09,7/29/19,10.47123288,0,,,0,1,0,0,0,1,,Buckets,1,High,7/2/19,1,1,1,1,0,0,1,"It's okay because it's just her taking water, nobody else"
+192,2/9/09,7/29/19,10.47123288,0,,,0,1,0,0,0,1,,Rocks,2,Low,7/2/19,1,1,1,0,,0,1,There will still be enough rocks left for the path.
+193,7/15/15,7/29/19,4.04109589,1,Failed Screening,,0,0,0,0,0,0,,,,,,,,,,,,,
+194,1/30/09,7/29/19,10.49863014,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,Somebody else might see him
+194,1/30/09,7/29/19,10.49863014,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,0,She's hurting the environment
+195,4/3/14,7/29/19,5.323287671,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,0,He already took one
+195,4/3/14,7/29/19,5.323287671,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,0,She already took water
+196,11/21/13,7/29/19,5.687671233,0,,,0,1,0,0,0,1,,buckets,1,high,7/2/19,1,1,1,1,0,0,0,Because the fish will die
+196,11/21/13,7/29/19,5.687671233,0,,,0,1,0,0,0,1,,rocks,2,low,7/2/19,1,1,1,0,,0,0,There won't be any more rocks so they won't find their way home
+197,9/19/10,7/30/19,8.865753425,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,1,There's a lot of rocks
+197,9/19/10,7/30/19,8.865753425,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,1,There's still a lot of water
+198,4/24/14,7/30/19,5.268493151,1,Failed Screening,,0,1,1,0,0,1,,,,,,,,,,,,,
+199,8/2/08,7/30/19,10.99726027,0,,,0,1,0,0,0,1,,buckets,1,low,7/2/19,1,1,1,0,,0,0,If she keeps on doing it then the lake will run out of water
+199,8/2/08,7/30/19,10.99726027,0,,,0,1,0,0,0,1,,rocks,2,high,7/2/19,1,1,1,1,0,0,0,Then other people will do it 
+200,9/24/11,7/30/19,7.852054795,1,failed screening,,0,1,1,0,1,1,,,,,,,,,,,,,
+201,6/26/09,7/30/19,10.09863014,1,incorrect answer,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,0,1,0,,0,0,Because path will break
+201,6/26/09,7/30/19,10.09863014,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,0,Because she promised she would never take water from the lake
+202,10/8/15,7/31/19,3.81369863,0,,,0,1,0,0,0,1,,buckets,1,high,7/2/19,2,1,1,1,0,0,1,Okay if she just takes it once
+202,10/8/15,7/31/19,3.81369863,0,,,0,1,0,0,0,1,,rocks,2,low,7/2/19,1,1,1,0 (2nd try),,0,1,It's okay to take one rock
+203,7/29/15,7/31/19,4.008219178,1,failed screening,,1,1,1,0,1,0,,,,,,,,,,,,,
+204,9/3/13,7/31/19,5.909589041,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,Because he promised he wouldn't 
+204,9/3/13,7/31/19,5.909589041,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,0,because none of the other kids did that
+205,9/16/10,7/31/19,8.876712329,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,2,1,0,,0,0,because it's part of nature
+205,9/16/10,7/31/19,8.876712329,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,1,because there's still plenty of water
+206,12/29/09,7/31/19,9.591780822,0,,,0,1,0,0,0,1,,buckets,1,high,7/2/19,1,1,1,1,0 (2nd try),0,0,It would be unfair & the other kids could find out
+206,12/29/09,7/31/19,9.591780822,0,,,0,1,0,0,0,1,,rocks,2,low,7/2/19,1,1,1,0,,0,1,It's okay because it's just this once
+207,1/17/13,7/31/19,6.536986301,1,failed screening,,0,1,1,0,1,1,,,,,,,,,,,,,
+208,3/22/12,7/31/19,7.361643836,1,failed screening,,0,1,1,0,0,1,,,,,,,,,,,,,
+209,8/10/09,7/31/19,9.978082192,0,,,0,1,"0, 2ND TRY",0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,0,There will be less rocks on the path
+209,8/10/09,7/31/19,9.978082192,0,,,0,1,"0, 2ND TRY",0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,0,She might scoop the fish
+210,8/10/09,7/31/19,9.978082192,0,,,0,1,0,0,0,1,,buckets,1,high,7/2/19,1,1,1,1,0,0,0,She's taking water from the fish's lake
+210,8/10/09,7/31/19,9.978082192,0,,,0,1,0,0,0,1,,rocks,2,low,7/2/19,1,1,1,0,,0,0,People need the rocks to follow the path
+211,11/17/14,7/31/19,4.704109589,0,,,0,1,0,0,0,1,,buckets,1,low,7/2/19,1,1,1,0,,0,1,Ok if she takes just one but not if she takes a lot like 100
+211,11/17/14,7/31/19,4.704109589,0,,,0,1,0,0,0,1,,rocks,2,high,7/2/19,1,1,1,1,0,0,1,Its ok if he takes only one!
+212,9/8/14,8/4/19,4.906849315,1,incorrect answer,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,0,1,1,0,0,1,He only took one
+212,9/8/14,8/4/19,4.906849315,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,1,It's only one scoop of water
+213,3/1/09,8/4/19,10.43287671,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,1,If theres still rocks left
+213,3/1/09,8/4/19,10.43287671,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,1,If theres still water left
+214,7/10/09,8/4/19,10.0739726,0,,,0,1,0,0,0,1,,buckets,1,high,7/2/19,1,1,1,1,0,0,0,Maybe all the other kids would find out and they'll do it. 
+214,7/10/09,8/4/19,10.0739726,0,,,0,1,0,0,0,1,,rocks,2,low,7/2/19,1,1,1,0,,0,1,Nobody else wants rocks
+215,5/24/12,8/4/19,7.2,0,,,0,1,0,0,0,1,,buckets,1,low,7/2/19,1,1,1,0,,0,1,Because she likes to do it
+215,5/24/12,8/4/19,7.2,0,,,0,1,0,0,0,1,,rocks,2,high,7/2/19,1,1,1,1,0,0,0,dont want to get rocks from the rock path
+216,9/15/11,8/4/19,7.890410959,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,Because some people like walking on the path and they might get mad
+216,9/15/11,8/4/19,7.890410959,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,0,Because they might notice the water has gone down
+217,5/29/14,8/4/19,5.18630137,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,0,"Because if he took one everyday, the path could disapear. "
+217,5/29/14,8/4/19,5.18630137,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,1,Because she's not taking it everyday.
+218,7/28/09,8/4/19,10.02465753,0,,,0,1,0,0,0,1,,buckets,1,high,7/2/19,1,1,1,1,0,0,1,There will still be water left in the lake for the fish
+218,7/28/09,8/4/19,10.02465753,0,,,0,1,0,0,0,1,,rocks,2,low,7/2/19,1,1,1,0,,0,1,There will still be rocks left for the path.
+219,3/5/12,8/4/19,7.419178082,0,,,0,1,0,0,0,1,,buckets,1,low,7/2/19,1,1,1,0,,0,1,They still have plenty of water for the fish
+219,3/5/12,8/4/19,7.419178082,0,,,0,1,0,0,0,1,,rocks,2,high,7/2/19,1,1,1,1,0,0,1,There's still lots of rocks
+220,4/6/12,8/4/19,7.331506849,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,Because then they can't see the path anymore
+220,4/6/12,8/4/19,7.331506849,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,0,Because then there would be no more water for the fish to seim through
+221,1/27/09,8/4/19,10.52328767,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,0,because if he takes one maybe he'll take more
+221,1/27/09,8/4/19,10.52328767,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,0,because she could be taking more water
+222,2/21/12,8/4/19,7.454794521,0,,,0,1,0,0,0,1,,buckets,1,high,7/2/19,1,1,1,1,0,0,1,because if everyone takes there will be no more but if just one person does there will still be some 
+222,2/21/12,8/4/19,7.454794521,0,,,0,1,0,0,0,1,,rocks,2,low,7/2/19,1,1,1,0,,0,1,"because if lots of people take it, they'll all be gone but if one does then it's ok"
+223,10/11/12,8/4/19,6.816438356,0,,,0,1,0,0,0,1,,buckets,1,low,7/2/19,1,1,1,0,,0,0,because if she takes all the water then the fish will die
+223,10/11/12,8/4/19,6.816438356,0,,,0,1,0,0,0,1,,rocks,2,high,7/2/19,1,1,1,1,0,0,1,he can take the big rock and use the little rocks in his collection to fill the hole in the path
+224,7/14/11,8/4/19,8.063013699,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,if he takes one he might take more
+224,7/14/11,8/4/19,8.063013699,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,0,the sun will dry the castle so then she might take more to make it wet again
+225,7/6/13,8/5/19,6.084931507,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,1,Because there's still more rocks.
+225,7/6/13,8/5/19,6.084931507,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,1,Because there's still plenty more
+226,7/6/12,8/5/19,7.084931507,0,,,0,1,0,0,0,1,,buckets,1,high,7/2/19,1,1,1,1,0,0,0,Because there wont be enough water for the fish.
+226,7/6/12,8/5/19,7.084931507,0,,,0,1,0,0,0,1,,rocks,2,low,7/2/19,1,1,1,0,,0,1,because there will still be more rocks.
+227,1/7/15,8/5/19,4.578082192,0,,,0,1,0,0,0,1,,buckets,1,low,7/2/19,1,1,1,0,,0,1,because its fine
+227,1/7/15,8/5/19,4.578082192,0,,,0,1,0,0,0,1,,rocks,2,high,7/2/19,1,1,1,1,0,0,1,Because he wants to take it.
+228,12/16/10,8/5/19,8.64109589,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,Because it's not his rock.
+228,12/16/10,8/5/19,8.64109589,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,0,not her water.
+229,8/1/15,8/5/19,4.01369863,1,didnt want to continue,,0,1,0,0,0,1,,buckets,1,,,,,,,,,,
+230,12/19/11,8/5/19,7.632876712,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,0,because he already took one
+230,12/19/11,8/5/19,7.632876712,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,0,because she already took some
+231,4/21/13,8/5/19,6.293150685,0,,,0,1,0,0,0,1,,buckets,1,low,7/2/19,1,1,2,0,,0,0,because the fish will be getting less water
+231,4/21/13,8/5/19,6.293150685,0,,,0,1,0,0,0,1,,rocks,2,high,7/2/19,1,1,1,1 (2nd try),0,0,1,because he's just taking one
+232,10/7/10,8/5/19,8.832876712,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,because the path might go away if he does it too much
+232,10/7/10,8/5/19,8.832876712,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,0,because if she does it too much the lake might go away
+233,11/23/12,8/5/19,6.701369863,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,0,because if he takes all the rocks then people couldn't follow the path
+233,11/23/12,8/5/19,6.701369863,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,0,becasue of she takes too much water then the fish can't swim and they will die
+234,5/21/11,8/5/19,8.21369863,0,,,0,1,0,0,0,1,,buckets,1,high,7/2/19,1,1,1,1,0,0,1,it's not taking up all the water
+234,5/21/11,8/5/19,8.21369863,0,,,0,1,0,0,0,1,,rocks,2,low,7/2/19,1,1,1,0,,0,1,he's the only one that likes to collect rocks
+235,11/6/11,8/5/19,7.750684932,0,,,0,1,0,0,0,1,,buckets,1,low,7/2/19,1,1,1,0,,0,0,the fish need water
+235,11/6/11,8/5/19,7.750684932,0,,,0,1,0,0,0,1,,rocks,2,high,7/2/19,1,1,1,1,0,0,1,(no explanation)
+236,8/4/09,8/5/19,10.00821918,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,people might notice the rock is missing
+236,8/4/09,8/5/19,10.00821918,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,0,it would make the lake a little shallower
+237,3/20/10,8/6/19,9.38630137,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,1,because there's a lot more rocks on the path
+237,3/20/10,8/6/19,9.38630137,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,2,1,1,0,0,1,because there's enough water that the fish will still live
+238,6/6/12,8/6/19,7.169863014,0,,,0,1,0,0,0,1,,buckets,1,high,7/2/19,1,1,1,1,0,0,0,there will still be less water for the fish
+238,6/6/12,8/6/19,7.169863014,0,,,0,1,0,0,0,1,,rocks,2,low,7/2/19,1,1,1,0,,0,1,because there will still be rocks
+239,9/22/10,8/6/19,8.876712329,0,,,0,1,0,0,0,1,,buckets,1,low,7/2/19,1,1,1,0,,0,1,because there would still be water left
+239,9/22/10,8/6/19,8.876712329,0,,,0,1,0,0,0,1,,rocks,2,high,7/2/19,1,1,1,1,0,0,1,because there would still be a lot of rocks on the path
+240,2/25/14,8/6/19,5.446575342,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,1,there'd still be some left
+240,2/25/14,8/6/19,5.446575342,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,1,there'd still be some water left
+241,6/22/10,8/6/19,9.128767123,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,1,It's only one rock and he'll only do it once
+241,6/22/10,8/6/19,9.128767123,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,1,It's only her. 
+242,12/4/08,8/6/19,10.67671233,0,,,0,1,0,0,0,1,,buckets,1,high,7/2/19,1,1,1,1,0,0,0,Because they said they weren't going to do it.
+242,12/4/08,8/6/19,10.67671233,0,,,0,1,0,0,0,1,,rocks,2,low,7/2/19,1,1,1,0,,0,1,Because if he just takes one rock and the other kids don't then there will still be rocks. 
+243,5/7/09,8/6/19,10.25479452,0,,,0,1,0,0,0,1,,buckets,1,low,7/2/19,1,1,1,0,,0,1,Because if you only take one bucket there will still be water left for the fish and no one will see. 
+243,5/7/09,8/6/19,10.25479452,0,,,0,1,0,0,0,1,,rocks,2,high,7/2/19,1,1,1,1,0,0,1,Because there will still be enough rocks on the rock path and no one will see. 
+244,8/19/14,8/11/19,4.980821918,1,Failed screening,,0,0,0,0,0,1,,,,,,,,,,,,,
+245,11/9/09,8/11/19,9.75890411,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,0,0,He's decreasing the amount of rocks and soon there will be none left.
+245,11/9/09,8/11/19,9.75890411,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,0,
+246,12/4/13,8/11/19,5.687671233,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,1,only one person so he can take one
+246,12/4/13,8/11/19,5.687671233,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,1,She's the only person there
+247,6/25/12,8/11/19,7.131506849,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,0,If he keeps doing it then there will be no more rocks left
+247,6/25/12,8/11/19,7.131506849,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,0,"If she keeps doing it, there will be no more."
+248,6/2/14,8/11/19,5.194520548,1,failed screening,,0,1,1,0,0,1,,,,,,,,,,,,,
+249,11/9/12,8/12/19,6.75890411,1,Wrong answer,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,2,1,0 (2nd try),,1,1,Because he already has a lot & so can take more
+249,11/9/12,8/12/19,6.75890411,1,Wrong answer,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,1,1,1,Because she can get more water
+250,3/13/15,8/12/19,4.419178082,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,2,2,1,1,0,0,0,"""I don't know"""
+250,3/13/15,8/12/19,4.419178082,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,0,the fish want water
+251,10/8/10,8/12/19,8.849315068,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,0,1,"He's not taking all the rocks, he's just taking one."
+251,10/8/10,8/12/19,8.849315068,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,1,"Because she's only doing it once, not 5 million times."
+252,4/28/14,8/12/19,5.293150685,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,No explanation. 
+252,4/28/14,8/12/19,5.293150685,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,1,She only did it just once. 
+253,11/23/14,8/14/19,4.726027397,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,0,1,He's just taking one rock for this one day.
+253,11/23/14,8/14/19,4.726027397,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,1,Just this once. 
+254,4/12/13,8/14/19,6.342465753,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,1,1,1,0,0,1,If he only takes one rock then there will be plenty of rocks left.
+254,4/12/13,8/14/19,6.342465753,0,,,0,1,0,0,0,1,,Buckets,2,Low,7/2/19,1,1,1,0,,0,1,If she just takes a little bit there will still be water left for the fish.
+255,1/10/11,8/14/19,8.597260274,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,1,Nobody will see him and he's only taking one.
+255,1/10/11,8/14/19,8.597260274,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,1,She's only doing one bucket and no one will see her. 
+256,5/8/15,8/14/19,4.271232877,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,THere wouldn't be a rock in the spot
+256,5/8/15,8/14/19,4.271232877,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,0,Beause there would be no more water in the spot that she took it
+257,5/18/15,8/14/19,4.243835616,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,1,"""I have a rock collection"""
+257,5/18/15,8/14/19,4.243835616,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,0,because there's a lot of fish in there
+258,1/13/14,8/18/19,5.597260274,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,1,1,1,0,0,1,Beacuse there's lots of other rocks.
+258,1/13/14,8/18/19,5.597260274,0,,,0,1,0,0,0,1,,Buckets,2,Low,7/2/19,1,1,1,0,,0,1,There's lots more water.
+259,12/30/08,8/18/19,10.63835616,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,2,1,0,,0,0,He didn't have permission to do it.
+259,12/30/08,8/18/19,10.63835616,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,0,There would be less water for the fish.
+260,9/18/10,8/18/19,8.920547945,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,1,1,1,0,0,0,It's kind of sneaky and disrespectful to the path.
+260,9/18/10,8/18/19,8.920547945,0,,,0,1,0,0,0,1,,Buckets,2,Low,7/2/19,1,2,1,0,,0,0,You need water for the fish –– if there's no water the fish will die.
+261,6/13/14,8/18/19,5.183561644,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,0,1,It's just a rock.
+261,6/13/14,8/18/19,5.183561644,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,1,She's just pouring it on her castle.
+262,5/5/15,8/18/19,4.290410959,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,1,1,1,2,0,1,There will be plenty more.
+262,5/5/15,8/18/19,4.290410959,0,,,0,1,0,0,0,1,,Buckets,2,Low,7/2/19,1,1,1,0,,0,1,There will be plenty more.
+263,5/5/15,8/18/19,4.290410959,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,2,1,0,,0,1,There will always be more
+263,5/5/15,8/18/19,4.290410959,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1 (2nd try),0,0,1,There will always be more
+264,12/29/13,8/18/19,5.638356164,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1 (2nd try),0,0,0,Beacuse he would take a rock before anyone else could
+264,12/29/13,8/18/19,5.638356164,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,0,The wet parts on the castle will get rusty
+265,2/6/15,8/18/19,4.531506849,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,0,The rocks are heavy
+265,2/6/15,8/18/19,4.531506849,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,0,The fish like water
+266,2/6/15,8/18/19,4.531506849,1,Failed screening,,0,1,0,0,0,0,,,,,,,,,,,,,
+267,5/4/14,8/18/19,5.293150685,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,0,There there will be no more rocks left
+267,5/4/14,8/18/19,5.293150685,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,0,There will be no more water
+268,2/21/12,8/19/19,7.495890411,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,1,1,1,0,0,0,"If everyone took a rock from the path, there'd be no more path left."
+268,2/21/12,8/19/19,7.495890411,0,,,0,1,0,0,0,1,,Buckets,2,Low,7/2/19,1,1,1,0,,0,0,"If everyone takes water from the lake, there'd be no more water left for the fish.  "
+269,9/13/12,8/19/19,6.934246575,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,2,0,Someone else made it (the path) and you have to ask before you just take something
+269,9/13/12,8/19/19,6.934246575,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,0,All the fishes live in the water and they need water to live.
+270,11/17/11,8/19/19,7.75890411,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,2,1,1,2,0,0,Maybe someone made the path & it's not okay to take a rock.
+270,11/17/11,8/19/19,7.75890411,0,,,0,1,0,0,0,1,,Buckets,2,Low,7/2/19,2,1,0,0,,0,0,"The fish need water.  Even if they take justa  little, it's bad for them."
+271,,,,1,Needed to translate.,,,,,,,,,,,,,,,,,,,,
+272,9/25/10,8/20/19,8.906849315,1,Wrong answers,,0,1,0,0,0,1,,Rocks,1,high,7/2/19,0,0,0,0,1,1,0,
+273,5/14/08,8/20/19,11.2739726,1,Outside of age range,,0,1,0,0,0,1,,Rocks,1,low,7/2/19,1,1,1,0,,0,1,Because he's only taking one rock so the path won't disappear
+273,5/14/08,8/20/19,11.2739726,1,Outside of age range,,0,1,0,0,0,1,,Buckets,2,high,7/2/19,1,1,1,1,0,0,1,There will still be water left in the lake
+274,4/18/12,8/20/19,7.342465753,0,,,0,1,0,0,0,1,,Rocks,1,high,7/2/19,1,1,1,1,0,0,1,no one will know
+274,4/18/12,8/20/19,7.342465753,0,,,0,1,0,0,0,1,,Buckets,2,low,7/2/19,1,1,1,0,,0,1,no one will see her do it
+275,5/10/14,8/20/19,5.282191781,0,,,0,1,0,0,0,1,,Rocks,1,low,7/2/19,1,2,1,0,,0,1,nobody will see him
+275,5/10/14,8/20/19,5.282191781,0,,,0,1,0,0,0,1,,Buckets,2,high,7/2/19,1,1,1,1,0,0,1,no one will see and if you only do it once there will still be water in the pond
+276,10/15/13,8/20/19,5.849315068,0,,,0,1,0,0,0,1,,Rocks,1,high,7/2/19,1,1,1,1,0,0,1,He's all alone
+276,10/15/13,8/20/19,5.849315068,0,,,0,1,0,0,0,1,,Buckets,2,low,7/2/19,1,1,1,0,,0,1,She's all alone
+277,1/17/09,8/20/19,10.59452055,0,,,0,1,0,0,0,1,,Rocks,1,low,7/2/19,1,1,1,0,,0,0,it's stealing and that's illegal
+277,1/17/09,8/20/19,10.59452055,0,,,0,1,0,0,0,1,,Buckets,2,high,7/2/19,1,1,1,1,0,0,0,it could hurt the animals and circle of life and it's stealing
+278,5/22/09,8/20/19,10.25205479,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,If he takes one everyone else will want to.
+278,5/22/09,8/20/19,10.25205479,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,1,No one will see her and she'll only do it just this once. 
+279,12/6/10,8/20/19,8.709589041,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,1,no explanantion. 
+279,12/6/10,8/20/19,8.709589041,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,0,no explanantion. 
+280,3/27/09,8/20/19,10.40547945,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,Cuz if she takes a rock then no one else can take a rock and it's not fair. 
+280,3/27/09,8/20/19,10.40547945,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,1,No one else wants to take water and there will still be water left for the fish.
+281,1/13/09,8/20/19,10.60547945,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,0,Then someone would do it and then everyone would do it and then there would be no more rocks.
+281,1/13/09,8/20/19,10.60547945,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,0,"If one person takes it, then other people have the right to do it too and then the water will be gone. "
+282,3/28/13,8/20/19,6.4,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,Other people might see. 
+282,3/28/13,8/20/19,6.4,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,1,It's just one person and no one will see and all the water won't go away.
+283,7/25/11,8/21/19,8.079452055,0,,,0,1,0,0,0,1,,Rocks,1,Low,7/2/19,1,1,1,0,,0,0,"Rocks are put there for the path, not to take."
+283,7/25/11,8/21/19,8.079452055,0,,,0,1,0,0,0,1,,Buckets,2,High,7/2/19,1,1,1,1,0,0,0,It's where the fish live.
+284,6/18/14,8/21/19,5.178082192,0,,,0,1,0,0,0,1,,Rocks,1,High,7/2/19,1,1,1,1,0,0,0,If they take one every day then there will be no more rocks.
+284,6/18/14,8/21/19,5.178082192,0,,,0,1,0,0,0,1,,Buckets,2,Low,7/2/19,1,1,1,0,,0,0,If you take water every day then there will be no more water left for the fish.
+285,5/23/12,8/21/19,7.249315068,0,,,0,1,0,0,0,1,,rocks,1,low,7/2/19,1,1,1,0,,0,1,There's still a lot more 
+285,5/23/12,8/21/19,7.249315068,0,,,0,1,0,0,0,1,,buckets,2,high,7/2/19,1,1,1,1,0,0,1,Still a lot more
+286,2/1/13,8/21/19,6.553424658,0,,,0,1,0,0,0,1,,rocks,1,high,7/2/19,1,1,1,1,0,0,0,Because then there will be one rock missing.
+286,2/1/13,8/21/19,6.553424658,0,,,0,1,0,0,0,1,,buckets,2,low,7/2/19,1,1,1,0,,0,0,Because there will be less water for the fish. 
